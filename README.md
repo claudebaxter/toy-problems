@@ -1,4 +1,4 @@
-#toy-toyProblems
+#toy-problems
 
 This repository contains two .js files that are used to demonstrate what a "toy problem" is and provides an example solution to said problem.
 
