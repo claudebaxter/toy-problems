@@ -22,4 +22,5 @@ water_categories_data = [
 //You'll notice the objects are out of order in the "order" array.
 //Test: write a function that takes an array of numbers as input.
 //It should output an array of those same numbers sorted from lowest to highest.
+//e.g., a function that takes [3, 1, 2, 4] and returns [1, 2, 3, 4]
 //see bubbleSort.js for solution.
