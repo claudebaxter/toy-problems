@@ -1,6 +1,6 @@
 #toy-problems
 
-This repository contains two .js files that are used to demonstrate what a "toy problem" is and provides an example solution to said problem.
+This repository contains two .js files that are used to demonstrate a "toy problem" and an example solution to said problem.
 
 First, review the notes and code in toyProblem.js to understand the "test question."
 
